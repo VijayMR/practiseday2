@@ -19,6 +19,8 @@ public class CompanyInfo {
 		c.companyName("ABC Technology");
 		c.CompanyName("DFL TEchnology", 45654);
 		c.CompanyName(7502285165l, 'A', true);
+		System.out.println("second update");
+		System.out.println("doneeeeeeeeeee");
 	}
 	
 
